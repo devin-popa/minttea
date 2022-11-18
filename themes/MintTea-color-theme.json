@@ -238,7 +238,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#67b6ff"
+				"foreground": "#ad67ce"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#67b6ff"
+				"foreground": "#ad67ce"
 			}
 		},
 		{
